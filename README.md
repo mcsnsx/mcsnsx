@@ -1,6 +1,5 @@
 ## Futura Desenvolvedora Java Full Stack Jr.
 
-"Quando você não souber mais onde ir, volte ao inicio."
 
 <div align="center">
   <a href="https://github.com/mcsnsx">
