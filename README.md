@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/mcsnsx">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mcsnsx&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000&hide_border=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsnsx&layout=compact&langs_count=7&theme=maroongold&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000&hide_border=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=mcsnsx&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000&hide_border=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsnsx&layout=compact&langs_count=7&theme=maroongold&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000&hide_border=true"/>
 </div>
   
   ##
