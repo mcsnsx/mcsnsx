@@ -1,4 +1,6 @@
-## Oi, eu sou a Maria Carolina e sou Desenvolvedora Java Full Stack Jr.
+## Futura Desenvolvedora Java Full Stack Jr.
+
+"Quando você não souber mais onde ir, volte ao inicio."
 
 <div align="center">
   <a href="https://github.com/mcsnsx">
