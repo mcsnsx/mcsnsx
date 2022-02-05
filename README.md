@@ -1,5 +1,5 @@
 <div align = "center">
-  <h3><b>## Desenvolvedora Java Full Stack Jr.</b>
+  <h3><b>## Desenvolvedora Java Full Stack Jr.</b></h3></div>
 
     ### Objetivos desse espaço:
 
