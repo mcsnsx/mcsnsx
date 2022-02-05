@@ -18,13 +18,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsnsx&layout=compact&langs_count=7&theme=maroongold&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
 </div>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Mac-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Mac-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mac-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904357250582331456/904357320375545906/Design_sem_nome.gif">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904357250582331456/904357320375545906/Design_sem_nome.gif">
 
   ##
   
