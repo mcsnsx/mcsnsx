@@ -1,7 +1,7 @@
 <div align = "center">
-  <h3><b>## Desenvolvedora Java Full Stack Jr.</b></h3></div>
+  <h2><b>## Desenvolvedora Java Full Stack Jr.</b></h2></div>
 
-   <h2> ### Objetivos desse espaço: </h2>
+   <h4> ### Objetivos desse espaço: </h4>
 
 * Armazenar códigos já produzidos para consulta/estudo futuro;
 * Usar como portifólio;
