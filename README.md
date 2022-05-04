@@ -42,8 +42,6 @@
   ![Snake animation](https://github.com/mcsnsx/mcsnsx/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-   
-    <hr>
   
 <h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
