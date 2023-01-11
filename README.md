@@ -30,7 +30,6 @@
   <img align="center" alt="MySQL" height="40px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" />
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/904357250582331456/904357320375545906/Design_sem_nome.gif">
 
   ##
   
