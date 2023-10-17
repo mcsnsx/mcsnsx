@@ -47,4 +47,4 @@
     <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
 </p>
 
-<img height="2" width="1000" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
+<img height="2" width="1500" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
