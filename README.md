@@ -47,4 +47,4 @@
     <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
 </p>
 
-<div style="height: 2px; width: 100vw; background: linear-gradient(to right, #f25b2b, #FCD84A, #32E5BE, #31CEFF, #BE74FF); margin: 20px 0;">--------------------------------------------------------------------------------------------</div>
+<img height="2" width="1000" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
