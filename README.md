@@ -61,11 +61,9 @@
 <div align="center">
   
   [![Maria C's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcsnsx&bg_color=0d1117&color=9c080d&line=700007&point=d1050c&area=true&area_color=d1050c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
-  <img src="https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=mcsnsx&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=mcsnsx&theme=shadow-red&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
   
 </div>
 
