@@ -1,11 +1,15 @@
 
-## **Desenvolvedora Back-End**
 
-    ### Oi, eu sou a Maria! :)
 
-<p align="center">
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=CF0000&center=true&vCenter=true&width=435&height=35&lines=Oi%2C+eu+sou+a+Maria!+%E2%9C%A8;Estou+sempre+pronta+para+desafios!++%F0%9F%93%8C;Amo+aprender+e+programar!+%F0%9F%93%9A+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
+
 Ser Dev me faz feliz, que a minha mente e minha moral estejam sempre no mesmo lugar ✨
-</p>
+
+</div>
+
+## **Desenvolvedora Back-End**
 
 <img src="https://i.imgur.com/ot2rtaS.gif" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
 
@@ -76,19 +80,18 @@ Objetivo desse espaço:
   <a href = "mailto:mcsnsx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-carolina-s-n-xavier-05340b191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
-<h3><p align="center">Total de Visitas no Perfil</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
-</p>
+
+<br>
 
 <div align="center">
   
   [![Maria C's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcsnsx&bg_color=0d1117&color=9c080d&line=700007&point=d1050c&area=true&area_color=d1050c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=mcsnsx&theme=shadow-red&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-  
+  <br>
+  <img src="https://github-profile-trophy.vercel.app?username=mcsnsx&theme=shadow-red&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph" />
 </div>
 
+<br>
+<div align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmcsnsx&s=40&c=8a0000&bg=00000000&no=2&ff=digi&tb=Visitantes%3A+&ta=" /></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:850101,100:10002B"/>
