@@ -7,7 +7,7 @@ Ser Dev me faz feliz, que a minha mente e minha moral estejam sempre no mesmo lu
 </p>
 
 
-<img src="https://i.imgur.com/ot2rtaS.gif" alt="ilustração de um computador" min-width="550px" max-width="550px" width="550px" align="right">
+<img src="https://i.imgur.com/ot2rtaS.gif" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
 
 <br>
 
@@ -37,10 +37,10 @@ Objetivo desse espaço:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
 </picture>
+
+###
   
  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" /> 
   <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img width="12" />
   <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
