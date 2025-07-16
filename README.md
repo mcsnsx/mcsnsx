@@ -2,15 +2,14 @@
 ## **Desenvolvedora Back-End**
 
     ### Oi, eu sou a Maria! :)
+
 <p align="center">
 Ser Dev me faz feliz, que a minha mente e minha moral estejam sempre no mesmo lugar ✨
 </p>
 
-
 <img src="https://i.imgur.com/ot2rtaS.gif" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
 
 <br>
-
 
 Objetivo desse espaço:
 
@@ -20,9 +19,7 @@ Objetivo desse espaço:
 * Conhecer os projetos de outros usuários para aumentar minhas referências;
 * Local seguro para que eu não se perca o que foi produzido na minha jornada como Dev;
 
-<br>
-<hr>
-
+<br><hr>
 
 <div align="center">
   <a href="https://github.com/mcsnsx">
@@ -32,15 +29,7 @@ Objetivo desse espaço:
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-  
- <div align="left">
+ <div align="center">
   <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img width="12" />
   <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -71,17 +60,23 @@ Objetivo desse espaço:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-  ##
-  
-  <div> 
- <a href="https://discord.gg/PmJXZgWg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
+</picture>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="https://discord.gg/PmJXZgWg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mcsnsx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-carolina-s-n-xavier-05340b191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
-
-
-  
+ 
 <h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
@@ -95,6 +90,5 @@ Objetivo desse espaço:
   <img src="https://github-profile-trophy.vercel.app?username=mcsnsx&theme=shadow-red&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
   
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:850101,100:10002B"/>
