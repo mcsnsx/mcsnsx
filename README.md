@@ -41,19 +41,33 @@
 </div>
 
 
-###
+---
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mcsnsx/mcsnsx/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+---
   
 <h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/mcsnsx/count.svg"/>
 </p>
 
-<img height="2" width="1500" src="https://i.ibb.co/1XBDN6P/Ativo-13.png" alt="Ativo-13">
+<div align="center">
+  
+  [![Maria C's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcsnsx&bg_color=0d1117&color=9c080d&line=700007&point=d1050c&area=true&area_color=d1050c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=mcsnsx&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mcsnsx&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:850101,100:10002B"/>
