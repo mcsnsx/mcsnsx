@@ -127,4 +127,4 @@ Dicas e aprimoramentos são sempre bem vindos, sinta-se à vontade para abrir **
 
 <hr>
 
-Feito com ❤️ pela **Maria** usando **Go** 🚀
+Feito com ❤️ pela **Maria** 🚀
