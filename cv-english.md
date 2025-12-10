@@ -126,7 +126,7 @@ Feedback and improvements are always welcome! Feel free to open **Issues** or su
 
 <hr>
 
-> _“Clean code is the code you’re not afraid to refactor tomorrow.”_
+> _“Clean code is the code you’re not afraid to refactor tomorrow.”_ <
 
 <hr>
 
